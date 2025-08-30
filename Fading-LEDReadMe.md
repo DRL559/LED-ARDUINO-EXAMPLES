@@ -21,6 +21,6 @@ LED is connected to pin 3 with a resistor in series
 # What I Learned
 - For-Loops to increment/decrement values
 - PWM (Pulse Width Modulation) -> how analogWrite() creates the illusion of analog output by rapidly switching the pin HIGH/LOW.
-- Pin Capabilities -> not all pins are made the same, as only specific pins support PWM, so choosing which pin to use matters
+- Pin Capabilities -> not all pins are made the same, as only specific pins support PWM, so choosing which pin matters
 - brightness control using values of 0-255 to control LED brightness levels
 - Using delay() to control the speed of fading and create a visually smooth transition.
