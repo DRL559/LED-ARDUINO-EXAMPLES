@@ -16,7 +16,7 @@ LED is connected to pin 3 with a resistor in series
 # How To Run
 - Connect the components as described above
 -  Open Arduino IDE and copy-paste the code into a new sketch
--  Upload the code and the LED will blink ON for 1 second, OFF for 1 second.
+-  Upload the code and the LED will Fade in and out 
 
 # What I Learned
 - For-Loops to increment/decrement values
